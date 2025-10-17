@@ -5,6 +5,14 @@
 
 ---
 
+## Demo Video (Click The Tile Below)
+
+<a href="https://www.youtube.com/watch?v=7i-U9PWZFR8" target="_blank">
+  <img src="https://img.youtube.com/vi/7i-U9PWZFR8/maxresdefault.jpg" alt="Watch the Demo" width="100%" />
+</a>
+
+---
+
 ## 🧩 Problem Statement  
 In today’s fast-evolving financial ecosystem, users face challenges such as:  
 - **Information overload** from massive financial datasets.  
