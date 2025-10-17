@@ -101,20 +101,19 @@ Fin360 bridges these gaps with an intelligent, accessible, and personalized AI-d
 ---
 
 ## 📸 Project Images  
-*(Include relevant screenshots or architecture diagrams here)*  
-
----
-
-## 🤝 Future Scope  
-- Integration of voice-enabled financial assistants.  
-- Support for global market data APIs.  
-- Multi-language financial document processing.  
-- Enhanced predictive accuracy through fine-tuned transformer models.  
+![WhatsApp Image 2025-10-17 at 19 43 57](https://github.com/user-attachments/assets/75897327-80f3-4589-af80-c46aaa1d659b)
+![WhatsApp Image 2025-10-17 at 19 24 28](https://github.com/user-attachments/assets/8f8027cf-be6e-4114-8590-e6246c3772a0)
+![WhatsApp Image 2025-10-17 at 19 24 29](https://github.com/user-attachments/assets/2750d52f-915c-4eb3-b437-889bc45240a3)
+![WhatsApp Image 2025-10-17 at 19 24 29 (1)](https://github.com/user-attachments/assets/f138f338-cb6e-4833-b9fc-173e12389655)
+![WhatsApp Image 2025-10-17 at 19 24 29 (2)](https://github.com/user-attachments/assets/a1527dce-1c8c-46ac-9cce-0a7fa7875bb4)
+![WhatsApp Image 2025-10-17 at 19 24 30](https://github.com/user-attachments/assets/6857d595-e201-4222-9732-b7d2b9d9fde1)
+![WhatsApp Image 2025-10-17 at 19 24 30 (1)](https://github.com/user-attachments/assets/d3b72113-9c85-49f1-a6a5-ccd7c5dc8215)
+![WhatsApp Image 2025-10-17 at 19 24 30 (2)](https://github.com/user-attachments/assets/17b701b1-e1fa-45cd-944f-632f42512a77)
 
 ---
 
 ## 📜 License  
-This project is licensed under the **MIT License** – feel free to use, modify, and distribute with attribution.  
+This project is licensed under the **[MIT License](https://github.com/sameer240704/Fin-360/?tab=MIT-1-ov-file)** – feel free to use, modify, and distribute with attribution.  
 
 ---
 
